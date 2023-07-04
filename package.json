@@ -1,0 +1,16 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "description": "é um projecto para usar o Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express",
+    "node",
+    "to-do-list"
+  ],
+  "author": "Fausto Cananga",
+  "license": "ISC"
+}
